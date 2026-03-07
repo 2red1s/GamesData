@@ -5,11 +5,11 @@
 
 ---
 
-### 🇷🇺 Russian
+### 🇷🇺 Русский
 Актуальная база ID всех игр Steam в одном файле.
-- **Source:** `redsoft_games.txt`
-- **Sync:** 24h interval ⏱️
-- **Parsing:** Comma-separated (CSV style)
+- **Источник:** `redsoft_games.txt`
+- **Обновление:** каждые 24 часа ⏱️
+- **Формат:** через запятую (CSV style)
 
 ### 🇺🇸 English
 Up-to-date database of all Steam game IDs.
@@ -17,24 +17,16 @@ Up-to-date database of all Steam game IDs.
 - **Sync:** 24h interval ⏱️
 - **Parsing:** Comma-separated (CSV style)
 
-### 🇰🇿 Kazakh
-Steam ойындарының ID базасы.
-- **Source:** `redsoft_games.txt`
-- **Sync:** 24 сағат сайын ⏱️
-- **Parsing:** Үтір арқылы (CSV стилі)
+### 🇰🇿 Қазақша
+Барлық Steam ойындарының ID өзекті базасы.
+- **Дереккөз:** `redsoft_games.txt`
+- **Жаңарту:** әр 24 сағат сайын ⏱️
+- **Форматы:** үтір арқылы (CSV стилі)
 
-### 🇨🇳 Chinese
-Steam 游戏 ID 数据库。
-- **文件:** `redsoft_games.txt`
-- **更新:** 每 24 小时 ⏱️
+### 🇨🇳 中文
+全网最全的 Steam 游戏 ID 数据库。
+- **数据源:** `redsoft_games.txt`
+- **同步:** 每 24 小时更新一次 ⏱️
 - **格式:** 逗号分隔 (CSV 格式)
 
 ---
-
-## 🛠 Developer Access (RAW)
-
-Для интеграции в ваш софт используйте прямой метод запроса:
-
-```bash
-# Example cURL request
-curl https://raw.githubusercontent.com

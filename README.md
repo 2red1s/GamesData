@@ -1,7 +1,7 @@
 ![Banner](background.png)
 
 # GamesData
-> Automated Steam AppID provider by RedSoft
+> Automated Steam AppID provider by REDSOFT
 
 ---
 
